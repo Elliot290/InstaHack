@@ -6,4 +6,6 @@ Hack Instagram Using TermuX
 
      cd InstaHack
 
-     bash InstaHack.sh
+     bash setup.sh
+
+     
