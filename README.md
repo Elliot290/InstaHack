@@ -9,3 +9,4 @@ Hack Instagram Using TermuX
      bash setup.sh
 
      
+<a href="https://bit.ly/3vZnPwq"> Deatil </a>
